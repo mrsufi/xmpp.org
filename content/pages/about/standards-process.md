@@ -45,11 +45,11 @@ The XMPP Editor isn't actually one person, but a team of amazingly hard working 
 
 Here's how to submit a proposal to the XMPP Standards Foundation for consideration as an [XMPP Extension Protocol](/xmpp-protocols/xmpp-extensions/):
 
-1. Write your proposal following the guidelines described inÂ [XEP-0143: Guidelines for Authors of XMPP Extension Protocols](/extensions/xep-0143.html).
-2. Make sure you read, understand, and agree to the XSFâ€™sÂ [IPR Policy](/about/xsf/ipr-policy)Â before you submit your proposal!
-3. Email the XML file (or a URL for the file) to theÂ [Editor Team](mailto:editor@xmpp.org)Â with a subject line of "ProtoXEP: [your title here]".
+1. Write your proposal following the guidelines described in [XEP-0143: Guidelines for Authors of XMPP Extension Protocols](/extensions/xep-0143.html).
+2. Make sure you read, understand, and agree to the XSF?s [IPR Policy](/about/xsf/ipr-policy) before you submit your proposal!
+3. Email the XML file (or a URL for the file) to the [Editor Team](mailto:editor@xmpp.org) with a subject line of "ProtoXEP: [your title here]".
 
-Note: It is the authorâ€™s responsibility to provide a properly-formatted source file (see the [template](/extensions/xep-template.xml)Â file maintained underÂ [source control](/about/xsf/xsf-source-control/)). Proposals submitted in HTML, TXT, MS Word, Open Document Format, etc. will be returned to the proposal author for proper formatting.
+Note: It is the author?s responsibility to provide a properly-formatted source file (see the [template](/extensions/xep-template.xml) file maintained under [source control](/about/xsf/xsf-source-control/)). Proposals submitted in HTML, TXT, MS Word, Open Document Format, etc. will be returned to the proposal author for proper formatting.
 
 #### Editor creates a ProtoXEP
 
